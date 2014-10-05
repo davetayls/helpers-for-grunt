@@ -1,0 +1,19 @@
+{
+  "name": "helpers-for-grunt",
+  "version": "0.0.0",
+  "description": "grunter utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davetayls/helpers-for-grunt.git"
+  },
+  "author": "davetayls <dave@the-taylors.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davetayls/helpers-for-grunt/issues"
+  },
+  "homepage": "https://github.com/davetayls/helpers-for-grunt"
+}
