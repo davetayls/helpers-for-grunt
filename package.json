@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davetayls/helpers-for-grunt/issues"
   },
-  "homepage": "https://github.com/davetayls/helpers-for-grunt"
+  "homepage": "https://github.com/davetayls/helpers-for-grunt",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
 }
